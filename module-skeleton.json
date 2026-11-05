@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-projects-and-jobs-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-projects-and-jobs",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_projects_and_jobs_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/projects-and-jobs.md",
+  "presentationPlan": "projects/accounting/flutter/projects-and-jobs.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
